@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Uzgram",
+  "description": "Uzbekistan's national messaging platform. Experience secure messaging, crystal-clear calls, and cultural connection in one unified app.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
